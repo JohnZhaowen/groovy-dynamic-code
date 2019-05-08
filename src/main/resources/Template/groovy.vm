@@ -1,0 +1,4 @@
+class testGroovy {
+	def name = "zs"
+	def age = 14
+}
